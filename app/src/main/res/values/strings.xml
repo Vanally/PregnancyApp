@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PregnancyApp</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="btn_SignIn">SIGN IN</string>
+    <string name="btn_SignUp">SIGN UP</string>
+    <string name="btn_link_to_register">Not a member? Sign up</string>
+    <string name="btn_link_to_SignIn">Already Registered! Sign in</string>
+    <string name="Welcome">Welcome</string>
+    <string name="btn_logout">Sign Out</string>
+    <string name="name">Fullname</string>
+    <string name="imageText">PregnancyApp</string>
+    <string name="landing_text"> Pregnancy Tracking System For Early Warning, Action and Response</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="minimum_password">Minimum password</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

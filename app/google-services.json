@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "185681706450",
+    "firebase_url": "https://pregnancyapp-823e9.firebaseio.com",
+    "project_id": "pregnancyapp-823e9",
+    "storage_bucket": "pregnancyapp-823e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185681706450:android:402c565a533ee3d2",
+        "android_client_info": {
+          "package_name": "com.example.alison.pregnancyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185681706450-0hv14tl6kp9jv9iphc16vu48lorgad17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alison.pregnancyapp",
+            "certificate_hash": "f28c209a7cfa20afe3171b6a6935db447ea4627e"
+          }
+        },
+        {
+          "client_id": "185681706450-mpvculne9di8jggt1kt49kguojudqmlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr36PAInwn6TWW65IUZ3DNTi6Z-Bca0Lk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185681706450-mpvculne9di8jggt1kt49kguojudqmlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
